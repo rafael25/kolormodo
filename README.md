@@ -1,4 +1,5 @@
 kolormodo
 =========
 
-Komodo color schemes
+Some Komodo color schemes
+
