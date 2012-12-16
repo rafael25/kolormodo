@@ -1,5 +1,6 @@
-kolormodo
+My Kolormodo
 =========
 
-Some Komodo color schemes
+**Tomorrow Night - Eighties**
++ Esquema basado en [sublime-tomorrow-theme](https://github.com/theymaybecoders/sublime-tomorrow-theme)
 
